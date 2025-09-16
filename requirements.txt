@@ -1,0 +1,4 @@
+# No external dependencies required for the basic Sudoku game
+# The game uses only Python standard library modules:
+# - random (for puzzle generation)
+# - copy (for deep copying)
